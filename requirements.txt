@@ -1,0 +1,9 @@
+Machine Learning-Driven Long/Short Pair Trading Strategies in Cryptocurrencies Project hosted in Google Colab Notebook
+
+To run the project, first install Keras-tuner library
+
+!pip install keras-tuner
+or 
+pip install keras-tuner
+
+
